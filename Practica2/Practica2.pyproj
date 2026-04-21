@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c9fe1f7f-faee-4923-aaf8-6479f4942720</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Ejercicio1.01.py</StartupFile>
+    <StartupFile>Ejercicio1.02.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,8 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Ejercicio2.py" />
     <Compile Include="Ejercicio1.00.py" />
     <Compile Include="Ejercicio1.02.py" />
+    <Compile Include="Ejercicio1.03.py" />
+    <Compile Include="Ejercicio3.py" />
+    <Compile Include="Ejercicio4.py" />
+    <Compile Include="Ejercicio5.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Ejercicio1.01.py" />
