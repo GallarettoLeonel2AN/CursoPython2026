@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Ejercicio1.00.py" />
+    <Compile Include="Ejercicio1.02.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Ejercicio1.01.py" />
