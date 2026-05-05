@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\Practica2\\Ejercicio5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|solutionrelative:Practica2\\Ejercicio5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|solutionrelative:BilleteraVirtualUAI\\Grupo1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\Practica2\\Ejercicio4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|solutionrelative:Practica2\\Ejercicio4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\Practica2\\Ejercicio3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|solutionrelative:Practica2\\Ejercicio3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio1.03.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|solutionrelative:Practica2\\Ejercicio1.03.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}|Practica2\\Practica2.pyproj|solutionrelative:Practica2\\Ejercicio2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|solutionrelative:BilleteraVirtualUAI\\Grupo2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 422,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,66 +42,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ejercicio5.py",
-              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio5.py",
-              "RelativeDocumentMoniker": "Practica2\\Ejercicio5.py",
-              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio5.py",
-              "RelativeToolTip": "Practica2\\Ejercicio5.py",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-04-21T21:10:07.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ejercicio4.py",
-              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio4.py",
-              "RelativeDocumentMoniker": "Practica2\\Ejercicio4.py",
-              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio4.py",
-              "RelativeToolTip": "Practica2\\Ejercicio4.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Title": "Grupo2.py",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo2.py",
+              "RelativeDocumentMoniker": "BilleteraVirtualUAI\\Grupo2.py",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo2.py",
+              "RelativeToolTip": "BilleteraVirtualUAI\\Grupo2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-04-21T21:06:47.214Z",
+              "WhenOpened": "2026-05-05T20:54:03.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ejercicio3.py",
-              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio3.py",
-              "RelativeDocumentMoniker": "Practica2\\Ejercicio3.py",
-              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio3.py",
-              "RelativeToolTip": "Practica2\\Ejercicio3.py",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Grupo1.py",
+              "DocumentMoniker": "C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py",
+              "RelativeDocumentMoniker": "BilleteraVirtualUAI\\Grupo1.py",
+              "ToolTip": "C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py",
+              "RelativeToolTip": "BilleteraVirtualUAI\\Grupo1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-04-21T20:07:56.889Z",
+              "WhenOpened": "2026-05-05T20:38:10.641Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ejercicio2.py",
-              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio2.py",
-              "RelativeDocumentMoniker": "Practica2\\Ejercicio2.py",
-              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio2.py",
-              "RelativeToolTip": "Practica2\\Ejercicio2.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-04-21T19:56:55.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ejercicio1.03.py",
-              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio1.03.py",
-              "RelativeDocumentMoniker": "Practica2\\Ejercicio1.03.py",
-              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\Practica2\\Ejercicio1.03.py",
-              "RelativeToolTip": "Practica2\\Ejercicio1.03.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-04-21T19:48:32.139Z"
             }
           ]
         }
