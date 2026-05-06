@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|solutionrelative:BilleteraVirtualUAI\\Grupo1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|solutionrelative:BilleteraVirtualUAI\\Grupo2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -50,18 +50,17 @@
               "RelativeToolTip": "BilleteraVirtualUAI\\Grupo2.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-05T20:54:03.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T20:54:03.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Grupo1.py",
-              "DocumentMoniker": "C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py",
               "RelativeDocumentMoniker": "BilleteraVirtualUAI\\Grupo1.py",
-              "ToolTip": "C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py",
               "RelativeToolTip": "BilleteraVirtualUAI\\Grupo1.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAkj0DodIjwCcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-05T20:38:10.641Z",
               "EditorCaption": ""
