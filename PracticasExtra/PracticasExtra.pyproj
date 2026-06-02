@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>1fdcf58a-e1f0-4cb5-a479-50f6ea23910b</ProjectGuid>
+    <ProjectGuid>f485316f-9bcf-4f98-aec7-ea0cb6baa4a8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Grupo1.py</StartupFile>
+    <StartupFile>ValidarDni.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>BilleteraVirtualUAI</Name>
-    <RootNamespace>BilleteraVirtualUAI</RootNamespace>
+    <Name>PracticasExtra</Name>
+    <RootNamespace>PracticasExtra</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Grupo1.py" />
+    <Compile Include="CalculadoraGastosGrupal.py" />
+    <Compile Include="PracticaInventario.py" />
+    <Compile Include="ValidarDni.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

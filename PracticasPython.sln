@@ -9,6 +9,14 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practica2", "Practica2\Prac
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BilleteraVirtualUAI", "BilleteraVirtualUAI\BilleteraVirtualUAI.pyproj", "{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Clase8-5", "Clase8-5\Clase8-5.pyproj", "{B5044CC5-8714-4095-950C-46C92FC140F1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PracticasExtra", "PracticasExtra\PracticasExtra.pyproj", "{F485316F-9BCF-4F98-AEC7-EA0CB6BAA4A8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practica_3", "Practica_3\Practica_3.pyproj", "{871AA413-4B67-44AB-AB22-CFBBA96194BB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practica_4", "Practica_4\Practica_4.pyproj", "{7D574954-D69C-46CB-90B1-8D34BF685AD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +29,14 @@ Global
 		{C9FE1F7F-FAEE-4923-AAF8-6479F4942720}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5044CC5-8714-4095-950C-46C92FC140F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5044CC5-8714-4095-950C-46C92FC140F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F485316F-9BCF-4F98-AEC7-EA0CB6BAA4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F485316F-9BCF-4F98-AEC7-EA0CB6BAA4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871AA413-4B67-44AB-AB22-CFBBA96194BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871AA413-4B67-44AB-AB22-CFBBA96194BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D574954-D69C-46CB-90B1-8D34BF685AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D574954-D69C-46CB-90B1-8D34BF685AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

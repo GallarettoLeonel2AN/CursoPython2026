@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|solutionrelative:BilleteraVirtualUAI\\Grupo1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1FDCF58A-E1F0-4CB5-A479-50F6EA23910B}|BilleteraVirtualUAI\\BilleteraVirtualUAI.pyproj|solutionrelative:BilleteraVirtualUAI\\Grupo2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7D574954-D69C-46CB-90B1-8D34BF685AD9}|Practica_4\\Practica_4.pyproj|C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\Practica_4\\Fuel.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D574954-D69C-46CB-90B1-8D34BF685AD9}|Practica_4\\Practica_4.pyproj|solutionrelative:Practica_4\\Fuel.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 422,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,27 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Grupo2.py",
-              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo2.py",
-              "RelativeDocumentMoniker": "BilleteraVirtualUAI\\Grupo2.py",
-              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo2.py",
-              "RelativeToolTip": "BilleteraVirtualUAI\\Grupo2.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-05T20:54:03.829Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Grupo1.py",
-              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py",
-              "RelativeDocumentMoniker": "BilleteraVirtualUAI\\Grupo1.py",
-              "ToolTip": "C:\\Users\\leone\\source\\repos\\CursoPython2026\\BilleteraVirtualUAI\\Grupo1.py",
-              "RelativeToolTip": "BilleteraVirtualUAI\\Grupo1.py",
-              "ViewState": "AgIAABIAAAAAkj0DodIjwCcAAAAgAAAAAAAAAA==",
+              "Title": "Fuel.py",
+              "DocumentMoniker": "C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\Practica_4\\Fuel.py",
+              "RelativeDocumentMoniker": "Practica_4\\Fuel.py",
+              "ToolTip": "C:\\Users\\leone\\Source\\Repos\\CursoPython2026\\Practica_4\\Fuel.py",
+              "RelativeToolTip": "Practica_4\\Fuel.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-05T20:38:10.641Z",
+              "WhenOpened": "2026-06-02T21:52:19.066Z",
               "EditorCaption": ""
             }
           ]
